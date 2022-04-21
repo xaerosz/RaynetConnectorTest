@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish\RaynetConnectorTest</_PublishTargetUrl>
+    <History>True|2022-04-21T21:27:31.4956139Z;False|2022-04-21T23:27:01.4636270+02:00;True|2022-04-21T23:17:40.9915297+02:00;True|2022-04-21T23:06:30.4412539+02:00;True|2022-04-21T23:01:30.0555255+02:00;True|2022-04-21T22:56:03.6864500+02:00;True|2022-04-21T22:50:44.5599111+02:00;True|2022-04-21T22:45:08.6793112+02:00;True|2022-04-21T22:34:39.1775278+02:00;True|2022-04-21T22:34:26.4075738+02:00;True|2022-04-21T22:33:33.2343569+02:00;</History>
+  </PropertyGroup>
+</Project>

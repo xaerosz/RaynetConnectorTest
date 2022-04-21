@@ -1,0 +1,13 @@
+﻿@page
+@using RaynetConnectorTest.Models
+@model RaynetConnectorTest.Pages.TestRaynetApiCallModel
+@{
+
+    var data = (RaynetBusinessCaseListWrapper)ViewData["data"];
+}
+<ul>
+    @foreach (var item in data.data)
+    {
+        <li>@item.code</li>
+    }
+</ul>
